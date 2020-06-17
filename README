@@ -1,3 +1,6 @@
+
+For this project, I will create a music streaming data lake ETL pipeline using S3 and Python. 
+
 Use Spark and data lakes to build an ETL pipeline for a data lake hosted on S3. 
 
 To complete the project, I will load data from S3, process the data into analytics tables using Spark, 
